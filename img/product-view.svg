@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="627px" viewBox="0 0 512 627" enable-background="new 0 0 512 627" xml:space="preserve">
+<rect fill="#FAFAFA" width="513" height="627"/>
+<text transform="matrix(1 0 0 1 73.8281 342.8184)" fill="#999999" font-family="'FiraSans-ExtraBold'" font-size="14">$100–$200</text>
+<text transform="matrix(1 0 0 1 73.8281 313.8184)" fill="#414447" font-family="'FiraSansOT-Bold'" font-size="36" letter-spacing="1">Item Name</text>
+<rect x="44" y="42" fill="#B8FFE6" width="424" height="200"/>
+<rect x="74.334" y="387.334" fill="none" width="365.333" height="89.747"/>
+<text transform="matrix(1 0 0 1 74.334 402.2744)"><tspan x="0" y="0" font-family="'SourceSansPro-Regular'" font-size="18">American cafe culture has come a long way in </tspan><tspan x="0" y="21.6" font-family="'SourceSansPro-Regular'" font-size="18">the last two decades: corporate coffee has </tspan><tspan x="0" y="43.199" font-family="'SourceSansPro-Regular'" font-size="18">spawned near two generations of independent </tspan><tspan x="0" y="64.8" font-family="'SourceSansPro-Regular'" font-size="18">cafes that offer more than the old standby of... </tspan></text>
+<polygon fill="#00CDA1" points="74.333,242 159.333,152 205,201.333 238,176.667 303,242 "/>
+<circle fill="#00CDA1" cx="342.984" cy="127.318" r="28.329"/>
+<circle fill="#00CDA1" cx="410.984" cy="536.318" r="28.329"/>
+<text transform="matrix(1 0 0 1 75 373)" fill="#00CDA1" font-family="'FiraSans-SemiBoldItalic'" font-size="18" text-decoration=" underline">Home Improvement</text>
+<polyline fill="none" stroke="#FAFAFA" stroke-width="4" stroke-miterlimit="10" points="399.477,538.128 409.062,547.19 
+	423.334,523.333 "/>
+<circle fill="#999999" cx="103.984" cy="536.318" r="28.329"/>
+<line fill="none" stroke="#FAFAFA" stroke-width="4" stroke-miterlimit="10" x1="91.5" y1="523.333" x2="116" y2="547.19"/>
+<line fill="none" stroke="#FAFAFA" stroke-width="4" stroke-miterlimit="10" x1="116" y1="523.333" x2="91.5" y2="547.19"/>
+<text transform="matrix(1 0 0 1 342.9844 542)" fill="#00CDA1" font-family="'FiraSans-ExtraBold'" font-size="14">Like</text>
+<g>
+	<text transform="matrix(1 0 0 1 143.9844 542)" fill="#999999" font-family="'FiraSans-ExtraBold'" font-size="14">Dislike</text>
+</g>
+</svg>
